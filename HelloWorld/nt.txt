@@ -1,0 +1,4 @@
+Hello World!
+
+This is ran from a Win32 System
+NT Core
