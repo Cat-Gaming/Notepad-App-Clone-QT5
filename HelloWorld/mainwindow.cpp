@@ -81,6 +81,6 @@ void MainWindow::on_actionPrint_triggered()
 
 void MainWindow::on_actionAbout_this_App_triggered()
 {
-    QMessageBox::about(this, "About this App", "This App is a Notepad Clone made in Qt 5.2.0\nAuthors : Random Dude!");
+    QMessageBox::about(this, "About this App", "This App is a Notepad Clone made in Qt 5.1\nAuthors : Random Dude!");
     return;
 }
